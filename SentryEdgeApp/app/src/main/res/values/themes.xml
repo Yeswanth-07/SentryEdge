@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base theme used only for the tiny window before Compose takes over -->
+    <style name="Theme.SentryScan" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
